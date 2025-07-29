@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Monomakh:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RTL Language Support */
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="rtl"] .rtl\:space-x-reverse > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+}
+
+[dir="rtl"] .rtl\:flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+/* Arabic Font Support */
+.font-arabic {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+/* Google Sans Headers */
+.font-google-sans {
+  font-family: "Google Sans", sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: "Google Sans", sans-serif;
+}
+
+/* Language-specific adjustments */
+[lang="ar"] h1, [lang="ar"] h2, [lang="ar"] h3, [lang="ar"] h4, [lang="ar"] h5, [lang="ar"] h6 {
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+[lang="zh"] {
+  line-height: 1.7;
+}
+
+/* Ensure proper text direction for RTL */
+[dir="rtl"] input, [dir="rtl"] textarea, [dir="rtl"] select {
+  text-align: right;
+}
+
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] .text-right {
+  text-align: left;
+}
+
+:root {
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(20, 14.3%, 4.1%);
+  --muted: hsl(60, 4.8%, 95.9%);
+  --muted-foreground: hsl(25, 5.3%, 44.7%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(20, 14.3%, 4.1%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(20, 14.3%, 4.1%);
+  --border: hsl(20, 5.9%, 90%);
+  --input: hsl(20, 5.9%, 90%);
+  --primary: hsl(225, 17%, 25%);
+  --primary-foreground: hsl(0, 0%, 98%);
+  --secondary: hsl(15, 87%, 54%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(15, 87%, 54%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(60, 9.1%, 97.8%);
+  --ring: hsl(20, 14.3%, 4.1%);
+  --radius: 0.5rem;
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(225, 17%, 25%);
+  --primary-foreground: hsl(0, 0%, 98%);
+  --secondary: hsl(15, 87%, 54%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(15, 87%, 54%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+/* Custom gradient classes for the beauty theme */
+.gradient-primary {
+  background: linear-gradient(135deg, hsl(225, 17%, 25%) 0%, hsl(225, 17%, 20%) 100%);
+}
+
+.gradient-secondary {
+  background: linear-gradient(135deg, hsl(15, 87%, 54%) 0%, hsl(15, 87%, 48%) 100%);
+}
+
+.gradient-hero {
+  background: linear-gradient(135deg, hsl(225, 17%, 25%) 0%, hsl(225, 17%, 20%) 50%, hsl(15, 87%, 54%) 100%);
+}

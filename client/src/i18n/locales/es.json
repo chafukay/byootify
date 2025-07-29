@@ -1,0 +1,210 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "clear": "Limpiar",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "register": "Registrarse",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "help": "Ayuda",
+    "contact": "Contacto",
+    "about": "Acerca de",
+    "home": "Inicio",
+    "language": "Idioma"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "search": "Buscar Proveedores",
+    "shop": "Tienda",
+    "cart": "Carrito",
+    "forProviders": "Para Proveedores",
+    "myBookings": "Mis Citas",
+    "signIn": "Iniciar Sesión",
+    "signOut": "Cerrar Sesión"
+  },
+  "landing": {
+    "hero": {
+      "title": "Mantenerse Bella",
+      "titleStress": "No Debería Ser Estresante",
+      "subtitle": "¡SERVICIOS DE BELLEZA, SIMPLIFICADOS!",
+      "description": "Reserva profesionales de belleza confiables en tu área con facilidad. Desde peinado hasta cuidado de la piel, encuentra el proveedor perfecto para tus necesidades.",
+      "getStarted": "Comenzar",
+      "findProviders": "Buscar Proveedores"
+    },
+    "features": {
+      "trusted": "Proveedores Confiables",
+      "trustedDesc": "Todos los profesionales están verificados y calificados por clientes reales",
+      "convenient": "Reserva Conveniente",
+      "convenientDesc": "Reserva citas en línea 24/7 con confirmación instantánea",
+      "secure": "Pagos Seguros",
+      "secureDesc": "Procesamiento de pagos seguro con múltiples opciones"
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "step1": "Buscar y Descubrir",
+      "step1Desc": "Encuentra profesionales de belleza en tu área",
+      "step2": "Reservar y Pagar",
+      "step2Desc": "Programa tu cita y paga de forma segura",
+      "step3": "Embellécete",
+      "step3Desc": "Disfruta tu servicio de belleza y califica tu experiencia"
+    }
+  },
+  "search": {
+    "title": "Buscar Proveedores de Belleza",
+    "results": "Resultados de Búsqueda",
+    "noResults": "No se encontraron proveedores que coincidan con tus criterios",
+    "filters": {
+      "location": "Ubicación",
+      "service": "Servicio",
+      "priceRange": "Rango de Precios",
+      "rating": "Calificación Mínima",
+      "availability": "Disponibilidad"
+    },
+    "sort": {
+      "rating": "Mejor Calificados",
+      "priceLow": "Precio: Menor a Mayor",
+      "priceHigh": "Precio: Mayor a Menor",
+      "distance": "Distancia",
+      "newest": "Más Nuevos"
+    },
+    "services": {
+      "all": "Todos los Servicios",
+      "hair": "Peinado",
+      "braiding": "Trenzado",
+      "nails": "Servicios de Uñas",
+      "makeup": "Maquillaje",
+      "barbering": "Barbería",
+      "skincare": "Cuidado de la Piel"
+    }
+  },
+  "provider": {
+    "bookNow": "Reservar Ahora",
+    "sendMessage": "Enviar Mensaje",
+    "viewPortfolio": "Ver Portafolio",
+    "reviews": "Reseñas",
+    "services": "Servicios",
+    "availability": "Disponibilidad",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "gallery": "Galería",
+    "pricing": "Precios",
+    "specialties": "Especialidades",
+    "experience": "Experiencia",
+    "verified": "Proveedor Verificado",
+    "rating": "Calificación",
+    "reviewCount": "Reseñas",
+    "startingFrom": "Desde",
+    "trustBadges": {
+      "backgroundVerified": "Antecedentes Verificados",
+      "licensedProfessional": "Profesional Licenciado",
+      "trustedBy": "Confiado por {{count}}+ clientes"
+    }
+  },
+  "booking": {
+    "title": "Reservar Cita",
+    "selectServices": "Seleccionar Servicios",
+    "selectDateTime": "Seleccionar Fecha y Hora",
+    "confirmBooking": "Confirmar Reserva",
+    "serviceSelection": {
+      "title": "Elige Tus Servicios",
+      "description": "Selecciona los servicios que te gustaría reservar",
+      "duration": "Duración",
+      "price": "Precio"
+    },
+    "dateTime": {
+      "title": "Seleccionar Fecha y Hora",
+      "selectDate": "Elegir Fecha",
+      "selectTime": "Elegir Hora",
+      "noSlotsAvailable": "No hay horarios disponibles para esta fecha"
+    },
+    "confirmation": {
+      "title": "Resumen de Reserva",
+      "provider": "Proveedor",
+      "services": "Servicios",
+      "dateTime": "Fecha y Hora",
+      "total": "Total",
+      "notes": "Notas Especiales",
+      "notesPlaceholder": "Cualquier solicitud especial o notas para tu proveedor..."
+    },
+    "payment": {
+      "title": "Pago",
+      "processing": "Procesando Pago...",
+      "complete": "Completar Pago",
+      "success": "¡Reserva Confirmada!",
+      "failed": "Pago Fallido"
+    }
+  },
+  "shop": {
+    "title": "Productos de Belleza",
+    "categories": "Categorías",
+    "addToCart": "Agregar al Carrito",
+    "addToWishlist": "Agregar a Lista de Deseos",
+    "inStock": "En Stock",
+    "outOfStock": "Agotado",
+    "recommended": "Recomendado por Proveedores",
+    "featured": "Productos Destacados",
+    "newArrivals": "Nuevos Productos",
+    "bestSellers": "Más Vendidos",
+    "onSale": "En Oferta",
+    "viewDetails": "Ver Detalles",
+    "quickView": "Vista Rápida"
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "empty": "Tu carrito está vacío",
+    "continueShopping": "Seguir Comprando",
+    "checkout": "Pagar",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "tax": "Impuesto",
+    "quantity": "Cantidad",
+    "remove": "Eliminar",
+    "update": "Actualizar"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signOut": "Cerrar Sesión",
+    "welcome": "Bienvenido",
+    "authRequired": "Autenticación Requerida",
+    "signInToContinue": "Por favor inicia sesión para continuar",
+    "unauthorized": "No Autorizado",
+    "loggedOut": "Has cerrado sesión. Iniciando sesión de nuevo..."
+  },
+  "dashboard": {
+    "welcome": "Bienvenido",
+    "overview": "Resumen",
+    "bookings": "Citas",
+    "earnings": "Ganancias",
+    "clients": "Clientes",
+    "reviews": "Reseñas",
+    "settings": "Configuración",
+    "analytics": "Analíticas",
+    "calendar": "Calendario",
+    "messages": "Mensajes",
+    "notifications": "Notificaciones"
+  },
+  "errors": {
+    "generic": "Algo salió mal. Por favor intenta de nuevo.",
+    "networkError": "Error de red. Por favor verifica tu conexión.",
+    "notFound": "Página no encontrada",
+    "unauthorized": "No tienes permiso para acceder a esta página",
+    "validationError": "Por favor verifica tu entrada e intenta de nuevo"
+  }
+}

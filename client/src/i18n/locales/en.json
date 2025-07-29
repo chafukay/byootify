@@ -1,0 +1,238 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "clear": "Clear",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "register": "Sign Up",
+    "profile": "Profile",
+    "settings": "Settings",
+    "help": "Help",
+    "contact": "Contact",
+    "about": "About",
+    "home": "Home",
+    "language": "Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "search": "Find Providers",
+    "shop": "Shop",
+    "cart": "Cart",
+    "forProviders": "For Providers",
+    "myBookings": "My Bookings",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "landing": {
+    "hero": {
+      "title": "Staying Beautiful",
+      "titleStress": "Shouldn't be Stressful",
+      "subtitle": "BEAUTY SERVICES, SIMPLIFIED!",
+      "description": "Book trusted beauty professionals in your area with ease. From hair styling to skincare, find the perfect provider for your needs.",
+      "getStarted": "Get Started",
+      "findProviders": "Find Providers"
+    },
+    "features": {
+      "trusted": "Trusted Providers",
+      "trustedDesc": "All professionals are verified and rated by real clients",
+      "convenient": "Convenient Booking",
+      "convenientDesc": "Book appointments online 24/7 with instant confirmation",
+      "secure": "Secure Payments",
+      "secureDesc": "Safe and secure payment processing with multiple options"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "description": "Book your perfect beauty service in three simple steps",
+      "step1": "1. Search & Discover",
+      "step1Desc": "Browse verified providers in your area. Filter by service type, price, availability, and reviews to find your perfect match.",
+      "step2": "2. Book Instantly",
+      "step2Desc": "View real-time availability and book your appointment instantly. Choose your preferred date, time, and specific services with transparent pricing.",
+      "step3": "3. Enjoy & Review",
+      "step3Desc": "Relax and enjoy your beauty service. Pay securely through the app and leave a review to help others discover amazing providers."
+    },
+    "featuredProviders": {
+      "title": "Featured Beauty Providers",
+      "description": "Discover top-rated providers in your area, verified and ready to transform your look."
+    },
+    "services": {
+      "title": "Explore Beauty Services",
+      "description": "Find providers for every beauty need"
+    },
+    "safety": {
+      "title": "Your Safety is Our Priority",
+      "description": "We verify every professional and ensure secure transactions",
+      "verified": "Verified Professionals",
+      "verifiedDesc": "All professionals undergo background checks and skill verification before joining our platform.",
+      "secure": "Secure Payments",
+      "secureDesc": "Your payment information is protected with bank-level encryption and fraud protection.",
+      "support": "24/7 Support",
+      "supportDesc": "Our customer support team is available around the clock to help resolve any issues."
+    },
+    "professional": {
+      "title": "Are You a Beauty Professional?",
+      "description": "Join thousands of beauty professionals who have grown their business with Byootify. Get more clients, manage bookings effortlessly, and build your reputation.",
+      "revenueIncrease": "Average revenue increase",
+      "activeProfessionals": "Active professionals",
+      "bookingAvailability": "Booking availability",
+      "joinButton": "Join as a Professional"
+    }
+  },
+  "search": {
+    "title": "Find Beauty Providers",
+    "results": "Search Results",
+    "noResults": "No providers found matching your criteria",
+    "filters": {
+      "location": "Location",
+      "service": "Service",
+      "priceRange": "Price Range",
+      "rating": "Minimum Rating",
+      "availability": "Availability"
+    },
+    "sort": {
+      "rating": "Highest Rated",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "distance": "Distance",
+      "newest": "Newest"
+    },
+    "services": {
+      "all": "All Services",
+      "hair": "Hair Styling",
+      "braiding": "Hair Braiding",
+      "nails": "Nail Services",
+      "makeup": "Makeup",
+      "barbering": "Barbering",
+      "skincare": "Skincare"
+    }
+  },
+  "provider": {
+    "bookNow": "Book Now",
+    "sendMessage": "Send Message",
+    "viewPortfolio": "View Portfolio",
+    "reviews": "Reviews",
+    "services": "Services",
+    "availability": "Availability",
+    "about": "About",
+    "contact": "Contact",
+    "gallery": "Gallery",
+    "pricing": "Pricing",
+    "specialties": "Specialties",
+    "experience": "Experience",
+    "verified": "Verified Provider",
+    "rating": "Rating",
+    "reviewCount": "Reviews",
+    "startingFrom": "Starting from",
+    "trustBadges": {
+      "backgroundVerified": "Background Verified",
+      "licensedProfessional": "Licensed Professional",
+      "trustedBy": "Trusted by {{count}}+ clients"
+    },
+    "viewProfileBook": "View Profile & Book"
+  },
+  "booking": {
+    "title": "Book Appointment",
+    "selectServices": "Select Services",
+    "selectDateTime": "Select Date & Time",
+    "confirmBooking": "Confirm Booking",
+    "serviceSelection": {
+      "title": "Choose Your Services",
+      "description": "Select the services you'd like to book",
+      "duration": "Duration",
+      "price": "Price"
+    },
+    "dateTime": {
+      "title": "Select Date & Time",
+      "selectDate": "Choose Date",
+      "selectTime": "Choose Time",
+      "noSlotsAvailable": "No time slots available for this date"
+    },
+    "confirmation": {
+      "title": "Booking Summary",
+      "provider": "Provider",
+      "services": "Services",
+      "dateTime": "Date & Time",
+      "total": "Total",
+      "notes": "Special Notes",
+      "notesPlaceholder": "Any special requests or notes for your provider..."
+    },
+    "payment": {
+      "title": "Payment",
+      "processing": "Processing Payment...",
+      "complete": "Complete Payment",
+      "success": "Booking Confirmed!",
+      "failed": "Payment Failed"
+    }
+  },
+  "shop": {
+    "title": "Beauty Products",
+    "categories": "Categories",
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "recommended": "Recommended by Providers",
+    "featured": "Featured Products",
+    "newArrivals": "New Arrivals",
+    "bestSellers": "Best Sellers",
+    "onSale": "On Sale",
+    "viewDetails": "View Details",
+    "quickView": "Quick View"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Checkout",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "quantity": "Quantity",
+    "remove": "Remove",
+    "update": "Update"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "welcome": "Welcome",
+    "authRequired": "Authentication Required",
+    "signInToContinue": "Please sign in to continue",
+    "unauthorized": "Unauthorized",
+    "loggedOut": "You are logged out. Logging in again..."
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "overview": "Overview",
+    "bookings": "Bookings",
+    "earnings": "Earnings",
+    "clients": "Clients",
+    "reviews": "Reviews",
+    "settings": "Settings",
+    "analytics": "Analytics",
+    "calendar": "Calendar",
+    "messages": "Messages",
+    "notifications": "Notifications"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "networkError": "Network error. Please check your connection.",
+    "notFound": "Page not found",
+    "unauthorized": "You don't have permission to access this page",
+    "validationError": "Please check your input and try again"
+  }
+}

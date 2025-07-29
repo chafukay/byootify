@@ -1,0 +1,210 @@
+{
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "save": "حفظ",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "clear": "مسح",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "submit": "إرسال",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "التسجيل",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "help": "المساعدة",
+    "contact": "اتصل بنا",
+    "about": "حول",
+    "home": "الرئيسية",
+    "language": "اللغة"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "search": "البحث عن مقدمي الخدمة",
+    "shop": "المتجر",
+    "cart": "السلة",
+    "forProviders": "لمقدمي الخدمة",
+    "myBookings": "حجوزاتي",
+    "signIn": "تسجيل الدخول",
+    "signOut": "تسجيل الخروج"
+  },
+  "landing": {
+    "hero": {
+      "title": "البقاء جميلة",
+      "titleStress": "لا يجب أن يكون مرهقًا",
+      "subtitle": "خدمات الجمال، مبسطة!",
+      "description": "احجز مع محترفي الجمال الموثوقين في منطقتك بسهولة. من تصفيف الشعر إلى العناية بالبشرة، اعثر على مقدم الخدمة المثالي لاحتياجاتك.",
+      "getStarted": "ابدأ الآن",
+      "findProviders": "البحث عن مقدمي الخدمة"
+    },
+    "features": {
+      "trusted": "مقدمو خدمة موثوقون",
+      "trustedDesc": "جميع المحترفين تم التحقق منهم وتقييمهم من قبل عملاء حقيقيين",
+      "convenient": "حجز مريح",
+      "convenientDesc": "احجز المواعيد عبر الإنترنت على مدار الساعة مع تأكيد فوري",
+      "secure": "دفع آمن",
+      "secureDesc": "معالجة دفع آمنة ومؤمنة مع خيارات متعددة"
+    },
+    "howItWorks": {
+      "title": "كيف يعمل",
+      "step1": "البحث والاكتشاف",
+      "step1Desc": "اعثر على محترفي الجمال في منطقتك",
+      "step2": "الحجز والدفع",
+      "step2Desc": "جدولة موعدك والدفع بأمان",
+      "step3": "كوني جميلة",
+      "step3Desc": "استمتع بخدمة الجمال وقيم تجربتك"
+    }
+  },
+  "search": {
+    "title": "البحث عن مقدمي خدمات الجمال",
+    "results": "نتائج البحث",
+    "noResults": "لم يتم العثور على مقدمي خدمة يطابقون معاييرك",
+    "filters": {
+      "location": "الموقع",
+      "service": "الخدمة",
+      "priceRange": "نطاق السعر",
+      "rating": "الحد الأدنى للتقييم",
+      "availability": "التوفر"
+    },
+    "sort": {
+      "rating": "الأعلى تقييمًا",
+      "priceLow": "السعر: من الأقل إلى الأعلى",
+      "priceHigh": "السعر: من الأعلى إلى الأقل",
+      "distance": "المسافة",
+      "newest": "الأحدث"
+    },
+    "services": {
+      "all": "جميع الخدمات",
+      "hair": "تصفيف الشعر",
+      "braiding": "ضفائر الشعر",
+      "nails": "خدمات الأظافر",
+      "makeup": "المكياج",
+      "barbering": "الحلاقة",
+      "skincare": "العناية بالبشرة"
+    }
+  },
+  "provider": {
+    "bookNow": "احجز الآن",
+    "sendMessage": "إرسال رسالة",
+    "viewPortfolio": "عرض المعرض",
+    "reviews": "التقييمات",
+    "services": "الخدمات",
+    "availability": "التوفر",
+    "about": "حول",
+    "contact": "الاتصال",
+    "gallery": "المعرض",
+    "pricing": "الأسعار",
+    "specialties": "التخصصات",
+    "experience": "الخبرة",
+    "verified": "مقدم خدمة موثق",
+    "rating": "التقييم",
+    "reviewCount": "التقييمات",
+    "startingFrom": "ابتداءً من",
+    "trustBadges": {
+      "backgroundVerified": "الخلفية موثقة",
+      "licensedProfessional": "محترف مرخص",
+      "trustedBy": "موثوق من قبل {{count}}+ عميل"
+    }
+  },
+  "booking": {
+    "title": "حجز موعد",
+    "selectServices": "اختيار الخدمات",
+    "selectDateTime": "اختيار التاريخ والوقت",
+    "confirmBooking": "تأكيد الحجز",
+    "serviceSelection": {
+      "title": "اختر خدماتك",
+      "description": "اختر الخدمات التي تود حجزها",
+      "duration": "المدة",
+      "price": "السعر"
+    },
+    "dateTime": {
+      "title": "اختيار التاريخ والوقت",
+      "selectDate": "اختر التاريخ",
+      "selectTime": "اختر الوقت",
+      "noSlotsAvailable": "لا توجد أوقات متاحة لهذا التاريخ"
+    },
+    "confirmation": {
+      "title": "ملخص الحجز",
+      "provider": "مقدم الخدمة",
+      "services": "الخدمات",
+      "dateTime": "التاريخ والوقت",
+      "total": "الإجمالي",
+      "notes": "ملاحظات خاصة",
+      "notesPlaceholder": "أي طلبات خاصة أو ملاحظات لمقدم الخدمة..."
+    },
+    "payment": {
+      "title": "الدفع",
+      "processing": "جارٍ معالجة الدفع...",
+      "complete": "إتمام الدفع",
+      "success": "تم تأكيد الحجز!",
+      "failed": "فشل الدفع"
+    }
+  },
+  "shop": {
+    "title": "منتجات الجمال",
+    "categories": "الفئات",
+    "addToCart": "إضافة إلى السلة",
+    "addToWishlist": "إضافة إلى قائمة الرغبات",
+    "inStock": "متوفر",
+    "outOfStock": "نفد من المخزون",
+    "recommended": "موصى به من مقدمي الخدمة",
+    "featured": "منتجات مميزة",
+    "newArrivals": "وصل حديثًا",
+    "bestSellers": "الأكثر مبيعًا",
+    "onSale": "في التخفيضات",
+    "viewDetails": "عرض التفاصيل",
+    "quickView": "عرض سريع"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلتك فارغة",
+    "continueShopping": "متابعة التسوق",
+    "checkout": "الدفع",
+    "total": "الإجمالي",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة",
+    "quantity": "الكمية",
+    "remove": "إزالة",
+    "update": "تحديث"
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signOut": "تسجيل الخروج",
+    "welcome": "مرحبًا",
+    "authRequired": "المصادقة مطلوبة",
+    "signInToContinue": "يرجى تسجيل الدخول للمتابعة",
+    "unauthorized": "غير مخول",
+    "loggedOut": "تم تسجيل خروجك. جارٍ تسجيل الدخول مرة أخرى..."
+  },
+  "dashboard": {
+    "welcome": "مرحبًا",
+    "overview": "نظرة عامة",
+    "bookings": "الحجوزات",
+    "earnings": "الأرباح",
+    "clients": "العملاء",
+    "reviews": "التقييمات",
+    "settings": "الإعدادات",
+    "analytics": "التحليلات",
+    "calendar": "التقويم",
+    "messages": "الرسائل",
+    "notifications": "الإشعارات"
+  },
+  "errors": {
+    "generic": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "networkError": "خطأ في الشبكة. يرجى التحقق من اتصالك.",
+    "notFound": "الصفحة غير موجودة",
+    "unauthorized": "ليس لديك إذن للوصول إلى هذه الصفحة",
+    "validationError": "يرجى التحقق من إدخالك والمحاولة مرة أخرى"
+  }
+}

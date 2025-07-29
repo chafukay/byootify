@@ -1,0 +1,238 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "clear": "清除",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "submit": "提交",
+    "login": "登录",
+    "logout": "退出",
+    "register": "注册",
+    "profile": "个人资料",
+    "settings": "设置",
+    "help": "帮助",
+    "contact": "联系",
+    "about": "关于",
+    "home": "首页",
+    "language": "语言"
+  },
+  "navigation": {
+    "home": "首页",
+    "search": "查找服务商",
+    "shop": "商店",
+    "cart": "购物车",
+    "forProviders": "服务商专区",
+    "myBookings": "我的预约",
+    "signIn": "登录",
+    "signOut": "退出"
+  },
+  "landing": {
+    "hero": {
+      "title": "保持美丽",
+      "titleStress": "不应该有压力",
+      "subtitle": "美容服务，简化！",
+      "description": "轻松预约您所在地区值得信赖的美容专业人士。从发型设计到护肤，找到满足您需求的完美服务商。",
+      "getStarted": "开始使用",
+      "findProviders": "查找服务商"
+    },
+    "features": {
+      "trusted": "值得信赖的服务商",
+      "trustedDesc": "所有专业人士均经过验证并由真实客户评分",
+      "convenient": "便捷预约",
+      "convenientDesc": "24/7在线预约，即时确认",
+      "secure": "安全支付",
+      "secureDesc": "安全可靠的支付处理，多种支付方式"
+    },
+    "howItWorks": {
+      "title": "如何工作",
+      "description": "三个简单步骤预订您的完美美容服务",
+      "step1": "1. 搜索和发现",
+      "step1Desc": "浏览您所在地区的认证服务商。按服务类型、价格、可用性和评价筛选，找到您的完美匹配。",
+      "step2": "2. 即时预订",
+      "step2Desc": "查看实时可用性并即时预订您的预约。选择您首选的日期、时间和特定服务，价格透明。",
+      "step3": "3. 享受和评价",
+      "step3Desc": "放松并享受您的美容服务。通过应用程序安全支付，并留下评价帮助其他人发现优秀的服务商。"
+    },
+    "featuredProviders": {
+      "title": "特色美容服务商",
+      "description": "发现您所在地区的顶级服务商，经过验证，准备改变您的形象。"
+    },
+    "services": {
+      "title": "探索美容服务",
+      "description": "为每个美容需求找到服务商"
+    },
+    "safety": {
+      "title": "您的安全是我们的首要任务",
+      "description": "我们验证每位专业人士并确保安全交易",
+      "verified": "认证专业人士",
+      "verifiedDesc": "所有专业人士在加入我们平台之前都要接受背景调查和技能验证。",
+      "secure": "安全支付",
+      "secureDesc": "您的支付信息受到银行级加密和欺诈保护。",
+      "support": "24/7 支持",
+      "supportDesc": "我们的客户支持团队全天候提供服务，帮助解决任何问题。"
+    },
+    "professional": {
+      "title": "您是美容专业人士吗？",
+      "description": "加入数千名通过Byootify发展业务的美容专业人士。获得更多客户，轻松管理预订，建立您的声誉。",
+      "revenueIncrease": "平均收入增长",
+      "activeProfessionals": "活跃专业人士",
+      "bookingAvailability": "预订可用性",
+      "joinButton": "成为专业人士"
+    }
+  },
+  "search": {
+    "title": "查找美容服务商",
+    "results": "搜索结果",
+    "noResults": "未找到符合您条件的服务商",
+    "filters": {
+      "location": "位置",
+      "service": "服务",
+      "priceRange": "价格范围",
+      "rating": "最低评分",
+      "availability": "可用性"
+    },
+    "sort": {
+      "rating": "评分最高",
+      "priceLow": "价格：从低到高",
+      "priceHigh": "价格：从高到低",
+      "distance": "距离",
+      "newest": "最新"
+    },
+    "services": {
+      "all": "所有服务",
+      "hair": "发型设计",
+      "braiding": "编发",
+      "nails": "美甲服务",
+      "makeup": "化妆",
+      "barbering": "理发",
+      "skincare": "护肤"
+    }
+  },
+  "provider": {
+    "bookNow": "立即预约",
+    "sendMessage": "发送消息",
+    "viewPortfolio": "查看作品集",
+    "reviews": "评价",
+    "services": "服务",
+    "availability": "可用时间",
+    "about": "关于",
+    "contact": "联系方式",
+    "gallery": "图库",
+    "pricing": "价格",
+    "specialties": "专业领域",
+    "experience": "经验",
+    "verified": "认证服务商",
+    "rating": "评分",
+    "reviewCount": "评价",
+    "startingFrom": "起价",
+    "trustBadges": {
+      "backgroundVerified": "背景已验证",
+      "licensedProfessional": "持证专业人士",
+      "trustedBy": "受到{{count}}+客户信赖"
+    },
+    "viewProfileBook": "查看资料并预约"
+  },
+  "booking": {
+    "title": "预约服务",
+    "selectServices": "选择服务",
+    "selectDateTime": "选择日期和时间",
+    "confirmBooking": "确认预约",
+    "serviceSelection": {
+      "title": "选择您的服务",
+      "description": "选择您想要预约的服务",
+      "duration": "时长",
+      "price": "价格"
+    },
+    "dateTime": {
+      "title": "选择日期和时间",
+      "selectDate": "选择日期",
+      "selectTime": "选择时间",
+      "noSlotsAvailable": "此日期没有可用时间段"
+    },
+    "confirmation": {
+      "title": "预约摘要",
+      "provider": "服务商",
+      "services": "服务",
+      "dateTime": "日期和时间",
+      "total": "总计",
+      "notes": "特殊备注",
+      "notesPlaceholder": "给您的服务商的任何特殊要求或备注..."
+    },
+    "payment": {
+      "title": "支付",
+      "processing": "处理支付中...",
+      "complete": "完成支付",
+      "success": "预约已确认！",
+      "failed": "支付失败"
+    }
+  },
+  "shop": {
+    "title": "美容产品",
+    "categories": "分类",
+    "addToCart": "加入购物车",
+    "addToWishlist": "加入愿望清单",
+    "inStock": "有库存",
+    "outOfStock": "缺货",
+    "recommended": "服务商推荐",
+    "featured": "精选产品",
+    "newArrivals": "新品上市",
+    "bestSellers": "热销商品",
+    "onSale": "促销中",
+    "viewDetails": "查看详情",
+    "quickView": "快速查看"
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "您的购物车是空的",
+    "continueShopping": "继续购物",
+    "checkout": "结账",
+    "total": "总计",
+    "subtotal": "小计",
+    "shipping": "运费",
+    "tax": "税费",
+    "quantity": "数量",
+    "remove": "移除",
+    "update": "更新"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signOut": "退出",
+    "welcome": "欢迎",
+    "authRequired": "需要身份验证",
+    "signInToContinue": "请登录以继续",
+    "unauthorized": "未授权",
+    "loggedOut": "您已退出。正在重新登录..."
+  },
+  "dashboard": {
+    "welcome": "欢迎",
+    "overview": "概览",
+    "bookings": "预约",
+    "earnings": "收入",
+    "clients": "客户",
+    "reviews": "评价",
+    "settings": "设置",
+    "analytics": "分析",
+    "calendar": "日历",
+    "messages": "消息",
+    "notifications": "通知"
+  },
+  "errors": {
+    "generic": "出现了问题。请重试。",
+    "networkError": "网络错误。请检查您的连接。",
+    "notFound": "页面未找到",
+    "unauthorized": "您没有访问此页面的权限",
+    "validationError": "请检查您的输入并重试"
+  }
+}
