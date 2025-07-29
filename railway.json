@@ -3,6 +3,7 @@
   "build": {
     "builder": "nixpacks",
     "buildCommand": "npm run build"
+    "buildCommand": "npm run build && node railway-server.js"
   },
   "deploy": {
     "startCommand": "node railway-server.js",
