@@ -11,11 +11,11 @@ import { useQuery } from "@tanstack/react-query";
 import type { Professional } from "@shared/schema";
 import Navigation from "@/components/navigation";
 import { AITranslate, AITranslateHeading, AITranslateParagraph } from "@/components/ai-translate";
-import byootifyLogo from "@assets/Byootify Logo_1753511686735.png";
-import byootifyLogoWhite from "@assets/byootify-logo-white_1753513480403.png";
-import spaIconImage from "@assets/massage-spa-body-treatment_1753530139398.png";
-import hairstyleIconImage from "@assets/hairstyle_1753530328379.png";
-import shopIconImage from "@assets/shop_1753530373221.png";
+import byootifyLogo from "@/assets/Byootify Logo_1753511686735.png";
+import byootifyLogoWhite from "@/assets/byootify-logo-white_1753513480403.png";
+import spaIconImage from "@/assets/massage-spa-body-treatment_1753530139398.png";
+import hairstyleIconImage from "@/assets/hairstyle_1753530328379.png";
+import shopIconImage from "@/assets/shop_1753530373221.png";
 
 // Custom Hairstyle Icon Component using the provided image
 const HairstyleIcon = ({ className }: { className?: string }) => (
